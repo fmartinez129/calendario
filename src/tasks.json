@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "title": "task1",
+      "day": "1",
+      "month": "Enero",
+      "color": "Amarillo",
+      "hour": "9:30 A.M."
+    },
+    {
+      "title": "task2",
+      "day": "1",
+      "month": "Febrero",
+      "color": "Rojo",
+      "hour": "10:00 P.M."
+    },
+    {
+      "title": "task3",
+      "day": "2",
+      "month": "Abril",
+      "color": "Azul",
+      "hour": "5:45 P.M."
+    },
+    {
+      "title": "task4",
+      "day": "1",
+      "month": "Abril",
+      "color": "Azul",
+      "hour": "5:45 P.M."
+    }
+  ]
+}
